@@ -1,12 +1,69 @@
 # Awesome Security Certification 
 
-
-The goal of this list is to give an overview of the available Cloud Certifications. Provinding them with some meta-data on content, how long they are valid, priceing, duration of study, and study content.
-
-We Acknowledge that the topic cloud is non-stop in movement, and certifications are not of very much vallue. But for non core cloud engineers, architects etc certifications are a way to show they have some experience and knowledge.
-
+The goal of this list is to give an overview of the available Security Certifications. Provinding them with some meta-data on content, how long they are valid, priceing, duration of study, and study content. This is not a complete list, for a complete list see the wikipedia page below.
 
 ## Contents
+
+## Security Certifications overview
+This is a summaration of the certifications on this page. 
+This is not a complete list, for a complete list see the wikipedia page below.
+
+1. Basic 
+  1. ISFS, CEH, GSEC
+1. ISC²
+  1. CISSP, CISSP-ISSMP, CISSP-ISSAP, CISSP-ISSEP
+1. iSACA
+  1. CISA, CISM, , CRISC, CRISK
+1. CSA
+  1. CCSK
+1. to be sorted 
+  1. SCF, SANS, AWS, SABSA
+1. Existing lists
+  1. [Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_security_certifications)
+1. backlog
+  1. Add duriation
+  1. Add procedure
+  1. Add Price
+  1. Add remark
+  1. Add GDPR section
+
+# BASICS
+##  EXIN
+1.  ISFS Information Security Foundations (ISO/IEC 27002:2013)
+
+##  www.eccouncil.org
+1.  CEH Certified Ethical Hacker
+
+##  www.giac.org / cyber-defense.sans.org/certification
+1.  SANS-GSEC GIAC Security Essentials
+
+##  certification.comptia.org/certifications
+1. CompTIA Security+
+
+#  www.isc2.org
+1. CISSP Certified Information Systems Security Professional
+1. CISSP-ISSMP Information Security System Management Professional
+1. CISSP-ISSEP Information Systems Security Engineering Professional
+1. CISSP-ISSAP Information Systems Security Architecture Professional
+
+# www.isaca.org
+1. CISA Certified Information Systems Auditor
+1. CISM Certified Information Security Manager. (org inrichting)
+1. CRISC Certified in Risk and Information Systems Control 
+1. CRISK Certified in Risk and Information Systems Control
+
+# cloudsecurityalliance.org 
+1. CSA-CCSK : Certificate of Cloud Security Knowledge
+
+# sabsa.org
+1. SABSA Chartered Security Architect SCF / SCP / SCM (Foundation, Practitioner, Master) 
+
+# Information Security Risk Management Frameworks
+1. NIST
+1. CIS
+1. ISO27000+
+1. SANS
+1. CCN
 
 
 ## Contributing
